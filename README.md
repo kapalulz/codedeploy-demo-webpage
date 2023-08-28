@@ -1,5 +1,7 @@
 **Web Deployment with CodePipeline**
 
+![image](https://github.com/kapalulz/codedeploy-demo-webpage/assets/17459523/5b285421-e13f-4be6-a887-154bfe640407)
+
 Project Overview:
 This project focuses on setting up a Windows Server 2022 environment with a web server and automating the deployment process using AWS CodeDeploy and CodePipeline. The goal is to streamline the deployment of web applications hosted on the server whenever changes are pushed to a GitHub repository.
 
