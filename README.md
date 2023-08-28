@@ -34,3 +34,6 @@ Scalability: The setup can be scaled to handle more complex web applications and
 
     Conclusion:
 This project successfully sets up a Windows Server 2022 environment, configures the necessary AWS roles, and implements a continuous deployment pipeline using CodePipeline and CodeDeploy. It offers an efficient and automated way to manage and deploy web applications hosted on the server, making it easier to deliver updates and improvements to end-users.
+
+
+![image](https://github.com/kapalulz/codedeploy-demo-webpage/assets/17459523/67443504-02be-4b92-9221-15d9a56feb2f)
